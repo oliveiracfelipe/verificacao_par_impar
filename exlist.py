@@ -1,3 +1,11 @@
+# Pedir 6 números ao usuário.
+# Adicionar cada número à lista.
+# Mostrar os números na ordem em que foram digitados.
+# Ordenar a lista em ordem crescente usando .sort().
+# Mostrar a lista ordenada.
+# Mostrar quantos números foram cadastrados.
+# Perguntar um número ao usuário e verificar se ele está na lista.
+
 numeros = [] # 1 Lista vazia
 
 for i in range(6): # 2 Adicionar os números na lista
